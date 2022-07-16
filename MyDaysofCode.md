@@ -5,4 +5,8 @@ Hi guys. I decide to join the #100DaysofCode challenge today. I want to learn mo
 ## Day 1
 See more (here) (Day 1\quiz_app\Day1.md)
 
+## Day 2 
+See more here (Day 2\Day2.md)
+
+
 
